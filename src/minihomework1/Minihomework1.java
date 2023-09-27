@@ -19,10 +19,16 @@ public class Minihomework1 {
         // TODO code application logic here
          Scanner myKB = new Scanner(System.in);
     String name = "";//user name
-    System.out.println("Please enter your First name");//for the user tapy theirs names
+    int age;
     
-    name = myKB.nextLine();
+        System.out.println("Please enter your First name.");//for the user tapy theirs names
     
+        name = myKB.nextLine();
+    
+        System.out.println("Please enter your age.");
+    
+        age = myKB.nextInt();
+     
         
     }
     
