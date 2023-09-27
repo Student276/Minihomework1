@@ -50,7 +50,7 @@ public class Minihomework1 {
             }
 
         } catch (Exception e) {
-            System.out.println("error");
+            
         }
 
     }
